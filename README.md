@@ -2,7 +2,7 @@
   <h2>
     👋 Hi, I'm Chaima Raach, a passionate DevOps and Cloud enthusiast.
   </h2>
-  <ul>
+  <ul align="left">
     <li>💻 Currently pursuing a degree in Computer Networks & Telecommunications Engineering at the National Institute of Applied Science and Technology (INSAT).</li>
     <li>☁️ Eager to bridge innovation with IT solutions, I'm on a journey to master DevOps practices and cloud architecture.</li>
     <li>🌐 Let's connect! 🚀 <a href="mailto:chaima.raach@insat.ucar.tn">chaima.raach@insat.ucar.tn</a></li>
